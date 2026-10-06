@@ -1,0 +1,7 @@
+{
+  "name": "Solace - Emotional Sanctuary & Mindful Reflection",
+  "description": "A mindful emotional sanctuary providing daily check-ins, personalized therapeutic stories, mood insights, and gentle grounding rhythms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
